@@ -21,7 +21,7 @@ import icon from 'astro-icon'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://anmol-anand.github.io/blog',
+  site: 'https://anmol-anand.github.io/hub',
   integrations: [
     tailwind({
       applyBaseStyles: false,
